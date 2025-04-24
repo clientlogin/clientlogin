@@ -1,10 +1,9 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xrm0s&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+# 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,github,vsc&perline=3)](https://skillicons.dev)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=munishkhatri720&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=munishkhatri720&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=munishkhatri720&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
-
-
-  ![](https://komarev.com/ghpvc/?username=xrm0s&style=plastic)
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=munishkhatri720&icon=3&color=0)](https://visitcount.itsvg.in)
